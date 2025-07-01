@@ -21,5 +21,4 @@ https://github.com/user-attachments/assets/6669eddf-2316-4728-84dd-1cb46043c5fa
 - 🔍 SEO-friendly structure
 - 📦 Easy to deploy (Netlify, Vercel, GitHub Pages)
 
-## 📁 Project Structure
 
