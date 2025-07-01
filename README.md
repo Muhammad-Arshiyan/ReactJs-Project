@@ -2,7 +2,9 @@
 
 This project is a modern, responsive website built using **React JS** and **Bootstrap 5**. It features a clean, mobile-first design with reusable components, responsive layouts, and easy customization.
 
-![Website Preview](./preview.png) <!-- Add a real preview image if available -->
+<video controls autoplay loop width="400px">
+<source src=""/>
+</video>
 
 ---
 
