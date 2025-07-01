@@ -2,8 +2,11 @@
 
 This project is a modern, responsive website built using **React JS** and **Bootstrap 5**. It features a clean, mobile-first design with reusable components, responsive layouts, and easy customization.
 
-<source src="file:///C:/Users/hp/Desktop/WhatsApp%20Video%202025-06-28%20at%2016.38.10_b3485027.mp4" type="video/mp4">
+<video controls autoplay loop width="400" >
+<source src=<source src="file:///C:/Users/hp/Desktop/WhatsApp%20Video%202025-06-28%20at%2016.38.10_b3485027.mp4" type="video/mp4" type="video/mp4">
 
+
+</video>
 
 ---
 
