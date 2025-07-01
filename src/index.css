@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family: "Outfit", sans-serif;
+}
+
+
+a {
+    text-decoration: none;
+    color: inherit;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.btn-con{
+    background-color: #fff;
+    color: #212121;
+    padding: 14px 25px;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+    transition: 0.3s opacity;
+}
+
+.btn-con:hover {
+    opacity: 0.7;
+}
+.btn-con img {
+    width: 20px;
+    margin-left: 10px;
+}
+
+.dark-btn {
+    border: none;
+    padding: 14px 25px;
+    font-size: 16px;
+    border-radius: 30px;
+    color: #fff;
+    transition: 0.3s opacity;
+    background-color: #212EA0;
+}
+
+.bg-transparent {
+    background-color: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+}
+
+.dark-btn:hover {
+    opacity: 0.7;
+}
+
+.dark-btn img {
+    width: 20px;
+    margin-left: 10px;
+}
+
+@media (max-width: 1200px){
+    .hero .container {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .hero .btn-con {
+        padding: 14px 22px;
+    }
+}
+
+/* ----- media query ------*/
+
+@media (max-width: 1000px) {
+    .logo {
+        width: 140px;
+    }
+
+    .menu-icon {
+        display: block;
+        width: 30px;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1000px) {
+
+}
+

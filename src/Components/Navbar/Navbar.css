@@ -1,0 +1,51 @@
+.navbar  {
+    position: fixed;
+    z-index: 10;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+    position: relative;
+
+}
+
+.navbar-nav .nav-link:hover {
+    color: #fff;
+}
+
+.dark-nav {
+    background-color: #212EA0;
+    transition: 0.5s;
+}
+
+.navbar-nav .nav-link::before{
+    content: '';
+    width: 0;
+    height: 2px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: block;
+    transition: 0.3s;
+}
+
+.navbar-nav .nav-link:hover::before{
+    width: 100%;
+}
+
+.logo {
+    width: 180px;
+}
+
+.custom-toggler {
+    box-shadow: none !important;
+    outline: none !important;
+    border: none !important;
+  }
+
+  .custom-toggler:focus {
+    box-shadow: none !important;
+    outline: none !important;
+    border: none !important;
+  }
