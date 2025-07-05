@@ -11,8 +11,8 @@ https://github.com/user-attachments/assets/bd742e70-904a-4d5d-bbed-58624f7cca1e
 
 ## 🛠️ Technologies Used
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap 5](https://getbootstrap.com/)
+- React.js
+- Bootstrap 5
 - HTML5 / CSS3 / JavaScript (ES6+)
 
 ---
